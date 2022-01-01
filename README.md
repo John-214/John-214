@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John-214
 - 👀 I’m interested in developing website and apps
 - 🌱 I’m currently a IT student and studying all basics
-- 💞️ I’m looking forward to does who want to collaborate with me
+- 💞️ I’m looking forward to those who want to collaborate with me
 - 📫 you can email me in johnandreitorio123@gmail.com
 
 <!---
